@@ -59,15 +59,7 @@ print(a.isdigit())
 a="navraj kaur"
 print(a.isspace())
 
-#                  endwith string    
 
-# a="navraj kaur"
-# print(a.endwith())
-
-#                  startwith string
-
-# a="navraj kaur"
-# print(a.startwith())
 
 #                 count string
 
@@ -90,12 +82,7 @@ print(a.find("o"))
 #                 strip string 
 
 a="navraj kaur"
-print(a.strip())
-
-#                  istrip string
-
-# a="navraj kaur"
-# print(a.istrip())
+print(a.strip()
 
 #                 rstrip string
 
@@ -107,27 +94,5 @@ print(a.rstrip())
 a="navraj kaur"
 print(a.split())
 
-#                 ijust string
 
-# a="navraj kaur"
-# print(a.Ijust())
 
-#                 rjust string
-
-# a="navraj kaur"
-# print(a.rjust())
-
-#                zfill string
-
-# a="navraj kaur"
-# print(a.zfill())
-
-#               replace string
-
-# a="navraj kaur"
-# print(a.replace())
-
-#               joinstring
-
-# a="navraj kaur"
-# print(a.join())
